@@ -1,1 +1,1 @@
-SDL code for project http://nifty.stanford.edu/2020/wayne-bar-chart-racer/
+SDL code for a game of Snake

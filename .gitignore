@@ -2,6 +2,7 @@ a.out
 bars
 snake
 snake.cbp
+main-bak.cpp
 bars.cbp
 CMakeCache.txt
 cmake_install.cmake
